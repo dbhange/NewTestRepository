@@ -1,0 +1,2 @@
+Tested to check conflict
+line added by master branch
